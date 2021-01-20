@@ -1,6 +1,6 @@
 # Filter-Project
 This data is based on Indian marraige system.
-/*
+
 name: Saransh0
 dob: 8/12/1994
 job: developer 
@@ -46,4 +46,4 @@ name: Saransh7
 dob: 8/12/1990
 job: developer 1
 salary: 20L
-*/
+
