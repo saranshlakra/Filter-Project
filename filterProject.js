@@ -31,7 +31,7 @@ for (let i = 0; i <= marraigeData.length - 1; i++) {
 
     if (marraigeData[i].includes(birthYear[j]) && community) {
       let c = `Match ${marraigeData.indexOf(marraigeData[i])}`;
-      filterData = filterData + ("\n" + c + marraigeData[i]);
+      filterData.push("\n" + c + marraigeData[i]);
     }
   }
 }
