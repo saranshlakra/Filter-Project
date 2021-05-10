@@ -1,5 +1,5 @@
 # Filter-Project
-This data is based on Indian marraige system.
+This data is based on Indian marraige system. In India, there are multiple different groups on different social media platforms; Where we can find different options of girls and boys for marriage like a shadi.com or match maker. So, I this project will help you to filter any unwanted data from the big amount of data from these social platforms groups.
 
 name: Saransh0
 dob: 8/12/1994
